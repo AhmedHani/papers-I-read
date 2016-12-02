@@ -7,5 +7,4 @@ https://github.com/shagunsodhani/papers-I-read
 
 ## Papers & Notes
 
-* [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215v3.pdf)
-- [gist](https://arxiv.org/pdf/1409.3215v3.pdf)
+* [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/pdf/1409.3215v3.pdf) - - [gist](https://arxiv.org/pdf/1409.3215v3.pdf)
